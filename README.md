@@ -1,2 +1,2 @@
 # Heston-Stochastic-Local-Volatility-Model
-The Heston Stochastic-Local Volatility model is built in C++.
+A C++ project for replicating the efficient Monte-Carlo Simulation(MCS) scheme with Heston Stochastic-Local Volatility(Heston SLV, HSLV) model.
