@@ -1,3 +1,0 @@
-/home/jincheng/HestonSLVMC/build/CMakeFiles/HestonSLVMC.dir
-/home/jincheng/HestonSLVMC/build/CMakeFiles/edit_cache.dir
-/home/jincheng/HestonSLVMC/build/CMakeFiles/rebuild_cache.dir
