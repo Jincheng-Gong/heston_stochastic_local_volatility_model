@@ -1,3 +1,0 @@
-/Users/jincheng/Desktop/Heston-Stochastic-Local-Volatility-Model/build/CMakeFiles/HestonSLVMC.dir
-/Users/jincheng/Desktop/Heston-Stochastic-Local-Volatility-Model/build/CMakeFiles/edit_cache.dir
-/Users/jincheng/Desktop/Heston-Stochastic-Local-Volatility-Model/build/CMakeFiles/rebuild_cache.dir
