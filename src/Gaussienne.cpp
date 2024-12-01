@@ -1,8 +1,7 @@
 // simulation de la loi gaussienne par Box Muller
 #include"Gaussienne.h"
-#include<cmath>
 #include <iostream>
-#include<cmath>
+#include <cmath>
 #include <iomanip>
 #include <sstream>
 #include <iostream>

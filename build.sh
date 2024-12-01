@@ -1,8 +1,5 @@
 rm -r build
-mkdir build
-cd build
-cmake .. -DCMAKE_BUILD_TYPE=Debug
-cmake --build . --config Debug
+cmake -H. -Bbuild && cmake --build build -j4
 
 # read -p "Press 'y' to run the program, any other key to exit: " a
 

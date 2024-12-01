@@ -1,6 +1,5 @@
 #pragma once
 // Designed class for the computation of conditionnal expectation with the bins
-#include<vector>
 #include <iostream>
 #include <vector>
 #include <algorithm>
