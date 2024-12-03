@@ -11,4 +11,4 @@ cmake -H. -Bbuild && cmake --build build -j4
 #     exit ;;
 # esac
 
-echo "EOF"
+# echo "EOF"
